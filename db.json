@@ -1,0 +1,23 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text":"To learn python",
+      "day": "12th april 11:20pm",
+      "remainder":true
+      },
+      {
+        "id": 2,
+        "text":"To join webinar",
+        "day": "15th april at 1:20pm",
+        " remainder":true
+      },
+      {
+        "id": 3,
+        "text":"Food shopping",
+        "day": "18th april 1:30pm",
+        "remainder":false
+      } 
+  ]
+  
+}
